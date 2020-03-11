@@ -1,0 +1,66 @@
+.my-red {
+    background-color: #be3144;
+}
+
+.my-right{
+    float: right;
+}
+
+.menu-list .menu-item{
+    display: inline-block;
+    text-decoration: none;
+}
+
+.menu-list .menu-item:hover{
+    background-color: #45567d;
+}
+
+.menu-item a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
+.section{
+    width: 100%;
+    height: 100vh;
+}
+.section-title{
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.one{
+    background-color: blue;
+}
+
+.section-two-container{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.card {
+    display: inline-block;
+    width: 30%;
+    background-color:#303841;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.card img{
+    width: 100%;
+}
+
+.two{
+    padding-top: 1rem;
+    background-color: #45567d;
+}
+.three{
+    background-color: gray;
+}
